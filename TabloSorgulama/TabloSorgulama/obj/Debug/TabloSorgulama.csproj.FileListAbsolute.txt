@@ -1,0 +1,10 @@
+C:\Users\devra\Desktop\C# Projelerim\TabloSorgulama\TabloSorgulama\bin\Debug\TabloSorgulama.exe.config
+C:\Users\devra\Desktop\C# Projelerim\TabloSorgulama\TabloSorgulama\bin\Debug\TabloSorgulama.exe
+C:\Users\devra\Desktop\C# Projelerim\TabloSorgulama\TabloSorgulama\bin\Debug\TabloSorgulama.pdb
+C:\Users\devra\Desktop\C# Projelerim\TabloSorgulama\TabloSorgulama\obj\Debug\TabloSorgulama.csproj.AssemblyReference.cache
+C:\Users\devra\Desktop\C# Projelerim\TabloSorgulama\TabloSorgulama\obj\Debug\TabloSorgulama.Form1.resources
+C:\Users\devra\Desktop\C# Projelerim\TabloSorgulama\TabloSorgulama\obj\Debug\TabloSorgulama.Properties.Resources.resources
+C:\Users\devra\Desktop\C# Projelerim\TabloSorgulama\TabloSorgulama\obj\Debug\TabloSorgulama.csproj.GenerateResource.cache
+C:\Users\devra\Desktop\C# Projelerim\TabloSorgulama\TabloSorgulama\obj\Debug\TabloSorgulama.csproj.CoreCompileInputs.cache
+C:\Users\devra\Desktop\C# Projelerim\TabloSorgulama\TabloSorgulama\obj\Debug\TabloSorgulama.exe
+C:\Users\devra\Desktop\C# Projelerim\TabloSorgulama\TabloSorgulama\obj\Debug\TabloSorgulama.pdb
